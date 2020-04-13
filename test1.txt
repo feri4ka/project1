@@ -1,1 +1,2 @@
 This is the first line in the file.
+New lines in test1
